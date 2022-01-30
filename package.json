@@ -1,0 +1,26 @@
+{
+  "name": "ui-test-assessment-master",
+  "version": "1.0.0",
+  "description": "At employees.html the following client requirement has been implemented: - The possibility to see the city of origin of the selected employees in a list.",
+  "main": "employees.html",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R2D78/citiesEmployees.git"
+  },
+  "author": "Paco_Cobos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R2D78/citiesEmployees/issues"
+  },
+  "homepage": "https://github.com/R2D78/citiesEmployees#readme",
+  "devDependencies": {
+    "cypress": "^9.3.1",
+    "eslint": "^8.8.0"
+  }
+}
